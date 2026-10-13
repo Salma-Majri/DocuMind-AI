@@ -26,19 +26,19 @@ Try DocuMind AI online:
 
 ### 1. Dashboard
 
-![DocuMind AI Dashboard](images/1.jpg)
+![DocuMind AI Dashboard](images/1.png)
 
 ### 2. Document Upload
 
-![Document Upload](images/2.jpg)
+![Document Upload](images/2.png)
 
 ### 3. Ask Your Documents
 
-![Question Interface](images/3.jpg)
+![Question Interface](images/3.png)
 
 ### 4. AI Answer and Sources
 
-![Generated Answer and Sources](images/4.jpg)
+![Generated Answer and Sources](images/4.png)
 
 ## 🛠️ Technologies Used
 
