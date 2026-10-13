@@ -1,13 +1,13 @@
 import streamlit as st
 
-from app.document_loader import load_document
-from app.text_splitter import split_documents
-from app.vector_store import (
+from document_loader import load_document
+from text_splitter import split_documents
+from vector_store import (
     load_embedding_model,
     build_vector_store,
     search_documents,
 )
-from app.rag_pipeline import answer_question
+from rag_pipeline import answer_question
 
 
 # ==========================================
