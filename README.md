@@ -117,9 +117,9 @@ DocuMind-AI/
 │   ├── 2.png
 │   ├── 3.png
 │   ├── 4.png
-│   ├── 5-qcm-generation.png
-│   ├── 6-qcm-questions.png
-│   └── 7-qcm-results.png
+│   ├── 5.png
+│   ├── 6.png
+│   └── 7.png
 │
 ├── .env.example
 ├── .gitignore
