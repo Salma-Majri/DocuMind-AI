@@ -52,19 +52,19 @@ Upload a document, process it, ask questions, or generate a QCM based on its con
 
 Choose the number of questions and select the difficulty level before generating a quiz from your documents.
 
-![QCM Generation](images/5-qcm-generation.png)
+![QCM Generation](images/5.png)
 
 ### 6. Interactive QCM
 
 Answer multiple-choice questions generated from the content of your uploaded documents.
 
-![Interactive QCM](images/6-qcm-questions.png)
+![Interactive QCM](images/6.png)
 
 ### 7. QCM Results and Feedback
 
 Get your score, check the correct answers, and review explanations to improve your understanding.
 
-![QCM Results](images/7-qcm-results.png)
+![QCM Results](images/7.png)
 
 ## 🛠️ Technologies Used
 
